@@ -1,0 +1,33 @@
+{
+    "descriptors": [
+        {
+            "category": "Gender",
+            "options": ["male", "female"]
+        },
+        {
+            "category": "Race",
+            "options": ["caucasian", "asian", "black", "native american", "hispanic"]
+        },
+        {
+            "category": "Hair Length",
+            "options": ["short", "medium", "long", "extra long"]
+        },
+        {
+            "category": "Hair Color",
+            "options": ["black", "brown", "red", "blonde", "white", "pink", "blue", "green"]
+        },
+        {
+            "category": "Build",
+            "options": ["muscular", "skinny", "chubby"]
+        },
+        {
+            "category": "Personality",
+            "options": ["creative", "courageous", "cowardly", "ambitious", "adventurous", "humorous", "loyal", "Cheerful", "Loyal", "evil", "rude", "determined"]
+        },
+        {
+            "category": "Clothing",
+            "options": ["casual", "grunge", "artsy", "formal", "vintage", "sports", "bohemian"]
+        }
+
+    ]
+  }
